@@ -1,0 +1,11 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+#box img {
+    width: 600px;
+    height: 600px;
+}
